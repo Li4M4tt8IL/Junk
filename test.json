@@ -1,11 +1,12 @@
 [
   {
-    "action": "1",
+    "action": "2",
     "text": "KOCHAMCIE",
     "text-colour": "12763892",
     "text-bg-colour": "0",
     "text-font-size": "4",
     "bg-colour": "0",
-    "image-url": "https://cdn.discordapp.com/attachments/567448457896394782/1117057523736924322/received_642262554413921.jpeg?size=512"
+    "image-url": "https://cdn.discordapp.com/attachments/567448457896394782/1117058867558359080/received_642262554413921.png",
+    "slide-count": 3
   }
 ]
