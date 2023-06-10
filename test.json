@@ -1,13 +1,13 @@
 [
   {
-    "action": "3",
+    "action": 3,
     "text": "HIII",
-    "text-colour": "12763892",
-    "text-bg-colour": "0",
-    "text-font-size": "4",
-    "bg-colour": "0",
+    "text-colour": 12763892,
+    "text-bg-colour": 0,
+    "text-font-size": 4,
+    "bg-colour": 0,
     "image-url": "1117077807558832178/Untitled-3.png",
-    "image-count": "5",
+    "image-count": 10,
     "images": [
       "1117063745563271188/Untitled-2.png",
       "1117077807558832178/Untitled-3.png",
